@@ -1,0 +1,1 @@
+My first readme inside of GIT dir!
